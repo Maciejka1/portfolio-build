@@ -1,12 +1,7 @@
 {
   "files": {
-<<<<<<< HEAD
-    "main.css": "/static/css/main.c393e94f.css",
-    "main.js": "/static/js/main.fe793709.js",
-=======
     "main.css": "/static/css/main.8064e2f2.css",
     "main.js": "/static/js/main.9e59eee4.js",
->>>>>>> b2e1432 (added working blogs)
     "static/js/787.ad15757c.chunk.js": "/static/js/787.ad15757c.chunk.js",
     "static/media/tabletMS.png": "/static/media/tabletMS.ce869d0ba13cb7d028f6.png",
     "static/media/monitorDS.png": "/static/media/monitorDS.bf21921533129ce01b13.png",
@@ -16,15 +11,6 @@
     "static/media/iphoneDS.png": "/static/media/iphoneDS.ceea90e3b682bedb9cd2.png",
     "static/media/logo.webp": "/static/media/logo.4d3dce1ebe013e7ba1d8.webp",
     "index.html": "/index.html",
-<<<<<<< HEAD
-    "main.c393e94f.css.map": "/static/css/main.c393e94f.css.map",
-    "main.fe793709.js.map": "/static/js/main.fe793709.js.map",
-    "787.ad15757c.chunk.js.map": "/static/js/787.ad15757c.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.c393e94f.css",
-    "static/js/main.fe793709.js"
-=======
     "main.8064e2f2.css.map": "/static/css/main.8064e2f2.css.map",
     "main.9e59eee4.js.map": "/static/js/main.9e59eee4.js.map",
     "787.ad15757c.chunk.js.map": "/static/js/787.ad15757c.chunk.js.map"
@@ -32,6 +18,5 @@
   "entrypoints": [
     "static/css/main.8064e2f2.css",
     "static/js/main.9e59eee4.js"
->>>>>>> b2e1432 (added working blogs)
   ]
 }
